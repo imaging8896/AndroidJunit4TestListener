@@ -6,7 +6,7 @@
 3. 'Bug' annotation
 
 ##How to use
-1. Jar generate by comand ./gradlew createJar. Jar in the app/libs/xml-report-formater.jar
+1. Jar generate by comand `./gradlew createJar`. Jar in the app/libs/xml-report-formater.jar
 2. Copy xml-report-formater.jar to project
 3. Add 'instrumentation' tag in AndroidManifest.xml
 
